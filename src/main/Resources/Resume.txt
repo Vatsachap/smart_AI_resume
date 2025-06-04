@@ -1,0 +1,9 @@
+Shrivatsa Chapalli
+Email: shrivatsachapalli@gmail.com
+
+Skills:
+- Java, Spring Boot, PostgreSQL, GCP
+- Machine Learning, NLP, REST APIs
+
+Experience:
+Worked on backend systems using WebFlux, S3, Lambda functions, and JWT security.
